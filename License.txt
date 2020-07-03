@@ -1,0 +1,2 @@
+
+The modification uses models from HOI 4 TGW, which are not copyright content and obey the rules of the license: http://www.wolferos.com/license/wsdml
